@@ -1,0 +1,9 @@
+[submodule "anchor"]
+	path = anchor
+	url = http://github.com/yeolab/anchor
+[submodule "bonvoyage"]
+	path = bonvoyage
+	url = http://github.com/yeolab/bonvoyage
+[submodule "outrigger"]
+	path = outrigger
+	url = http://github.com/yeolab/outrigger
